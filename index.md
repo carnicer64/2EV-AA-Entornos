@@ -1,6 +1,6 @@
 # Actividad de Aprendizaje de Entornos de Desarrollo
 
-Este repositorio contiene la actividad de aprendizaje de la asignatura de *Entornos de desarrollo*.Para completar esta AA
+Este repositorio contiene la actividad de aprendizaje de la asignatura de *Entornos de desarrollo*. Para completar esta AA 
 se ha usado la Actividad de Aprendizaje de la asignatura de Programación.
 
 *AVISO*: Es necesario usar los archivos de la carpeta "sql" en una base de datos para poder usar la aplicación.
@@ -9,7 +9,8 @@ se ha usado la Actividad de Aprendizaje de la asignatura de Programación.
 
 *AVISO*: Todo lo que no se encuentra en el repositorio se adjunta en la tarea de Google Classroom.
 
-________________________________
+
+_____________
 
 --REQUISITOS--
 
@@ -24,10 +25,10 @@ ________________________________
 2. Crear tres ramas feature y juntar con develop
 3. Configurar un job en jenkis para compilar y empaquetar
 4. Configurar el job anterior para Sonarqube
-5. Instalacion de VM y monitorizacion de rendimiento de la aplicación
-6. Configuracion de SonarQube en Maven
+5. Instalación de VM y monitorización de rendimiento de la aplicación
+6. Configuración de SonarQube en Maven
 7. Test JUnit
-8. Release
+8. Release 
 9. Gestor de issues con los features y 3 bugs
 10. Diagrama de clases
 11. Pagina de GitPages
